@@ -1,0 +1,28 @@
+## Build Results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+*.DotSettings.user
+
+## Rider / Resharper
+_ReSharper*/
+*.resharper
+
+## Temporary files & Logs
+*.log
+*.cache
+*.tmp
+thumbs.db
+ehthumbs.db
+Desktop.ini

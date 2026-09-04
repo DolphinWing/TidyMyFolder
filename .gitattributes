@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# C# sources and text
+*.cs text diff=csharp
+*.Designer.cs text diff=csharp
+*.resx text
+*.config text
+*.md text
+
+# Visual Studio solutions and project files require CRLF
+*.sln text eol=crlf
+*.csproj text eol=crlf
